@@ -10,7 +10,7 @@ Heaps is quick and easy to setup. You do not need any additional libraries than 
 
 > python3 heaps.py 100 2
 
-Here we see that the system argument indexed at one, is "100" and the system argument indexed at two, is "2". The first system argument is the size of the heap. Meaning, how big do you want the heap to be? and the second system argument is the branching factor of your heap. Given these two values, the program will create a heap with the satisfied conditions with n random items, that all, follow the heap property.
+Here we see that the system argument indexed at one, is "100" and the system argument indexed at two, is "2". The first system argument is the size of the heap. Meaning, how big do you want the heap to be? And the second system argument is the branching factor of your heap. Given these two values, the program will create a heap with the satisfied conditions with n random items, that all, follow the heap property.
 
 # License information ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
