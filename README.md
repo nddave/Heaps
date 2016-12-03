@@ -6,7 +6,7 @@ An implementation of d-ary heaps using Python3, where 'd' is defined by the user
 
 # Getting started
 
-Heaps is quick and easy to setup. You do not need any additional libraries than the ones built into Python3. So, download the Heaps.zip file, change directory to the Heaps folder and run it with the following command:
+[Heaps](https://github.com/nddave/Heaps/blob/master/heaps.py) is quick and easy to setup. You do not need any additional libraries than the ones built into Python3. So, download the Heaps.zip file, change directory to the Heaps folder and run it with the following command:
 
 > python3 heaps.py 100 2
 
